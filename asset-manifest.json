@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ra-hw13-saga-search/static/css/main.8a3d6a73.chunk.css",
+    "main.js": "/ra-hw13-saga-search/static/js/main.b65e1cd8.chunk.js",
+    "main.js.map": "/ra-hw13-saga-search/static/js/main.b65e1cd8.chunk.js.map",
+    "runtime-main.js": "/ra-hw13-saga-search/static/js/runtime-main.804ea776.js",
+    "runtime-main.js.map": "/ra-hw13-saga-search/static/js/runtime-main.804ea776.js.map",
+    "static/js/2.24f60de8.chunk.js": "/ra-hw13-saga-search/static/js/2.24f60de8.chunk.js",
+    "static/js/2.24f60de8.chunk.js.map": "/ra-hw13-saga-search/static/js/2.24f60de8.chunk.js.map",
+    "index.html": "/ra-hw13-saga-search/index.html",
+    "static/css/main.8a3d6a73.chunk.css.map": "/ra-hw13-saga-search/static/css/main.8a3d6a73.chunk.css.map",
+    "static/js/2.24f60de8.chunk.js.LICENSE.txt": "/ra-hw13-saga-search/static/js/2.24f60de8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.804ea776.js",
+    "static/js/2.24f60de8.chunk.js",
+    "static/css/main.8a3d6a73.chunk.css",
+    "static/js/main.b65e1cd8.chunk.js"
+  ]
+}
